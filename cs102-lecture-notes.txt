@@ -7,3 +7,6 @@ git commit -m "<Description>" <file_name> - Commits the file to the main branch
 git log - Saves the files to the server
 git push <file_name> - Pushes the files to the server
 git pull <file_name> - Pulls the file from the server
+
+Summary of today's lecture:
+Hey there! Today's lecture was fun as we got to learn to use a new software, 'Visual Studio Code' which is kind of a editor which helps us edit codes and files and many other things. Professor Clint took us through the installation and basic workings of the software; the usual do's and dont's of it. He then explained to us the procedure to complete the lab 3 assignment wherein we had to summarise the 'that' day lecture in not more than 100 words. Finally he introduced us to the Markdown language which was basically similar to CSS and HTML wherein we were supposed to type texts which was then displayed onto the walls of the server. 
