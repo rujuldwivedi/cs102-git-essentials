@@ -1,0 +1,9 @@
+The git commands are:
+git clone git@github.com:<username>/<repository> - Clones the respository
+git remote -v - Displays the remote location source
+git add <file_name> - Adds file to the repository
+git status - Shows the current running status
+git commit -m "<Description>" <file_name> - Commits the file to the main branch
+git log - Saves the files to the server
+git push <file_name> - Pushes the files to the server
+git pull <file_name> - Pulls the file from the server
